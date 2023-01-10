@@ -1,6 +1,6 @@
 
 <div>
-  <h2><font="Arial">Languages</font></h2>
+  <h2 style="font-family:'Comic Sans MS', cursive">Languages</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"  title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
