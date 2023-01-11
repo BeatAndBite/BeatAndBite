@@ -1,5 +1,5 @@
 <h1>Hey!</h1>
-:fire: I am a node tester and POS network validator
+:fire: I am a node tester and POS network validator<br>
 :fire: I am fond of learning to write scripts for nodes
 <div>
   <h2 style="font-family:'Comic Sans MS', cursive">Languages</h2>
