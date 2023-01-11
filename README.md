@@ -1,4 +1,6 @@
-
+<h1>Hey!</h1>
+:fire: I am a node tester and POS network validator
+:fire: I am fond of learning to write scripts for nodes
 <div>
   <h2 style="font-family:'Comic Sans MS', cursive">Languages</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -17,7 +19,7 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatAndBite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatAndBite&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
